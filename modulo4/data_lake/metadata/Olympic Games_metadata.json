@@ -1,0 +1,18 @@
+{
+    "file": "Olympic Games.csv",
+    "description": "Athletes data on Olympic Games",
+    "format": "csv",
+    "separator": ",",
+    "encoding": "latin1",
+    "number_of_rows": 8618,
+    "columns": [
+        {
+            "name": "Name",
+            "type": "string",
+            "description": "Athelete name"
+        }
+    ],
+    "origin": "Unknown",
+    "collect_date": "2025-05-31",
+    "owner": "Ronald Boadana"
+}

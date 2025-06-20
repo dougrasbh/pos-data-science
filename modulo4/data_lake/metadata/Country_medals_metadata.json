@@ -1,0 +1,20 @@
+{
+    "file": "processed_olympic_games_by_country.csv",
+    "description": "File with total medals",
+    "data_origin_file": "Olympic Games.csv",
+    "encoding": "latin1",
+    "number_of_rows": 8618,
+    "columns": [
+        {
+            "name": "Country",
+            "type": "string",
+            "description": "Country name"
+        }
+    ],
+    "format": "csv",
+    "separator": ",",
+    "header_line": true,
+    "file_path": "data_lake/processed/processed_olympic_games_by_country.csv",
+    "version": "1.0",
+    "notes": "Data grouped by country"
+}
